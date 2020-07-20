@@ -1,4 +1,4 @@
-## Group Project :
+## Group Project (Bootcamp-UofT) :
 
 ## Flight Search - [flYjet](https://wilsonruan.github.io/Flight-Search/)
 Our application - flYjet, shows all the flight options in one place, creating a simple alternative to the confusing sites. It is a simple, easy to use application where a user can search for flights according to their starting point/destination and whether the user is travelling one-way or both ways. flYjet will find the best possible match and provide the user with options to choose from. Flight prices, distance between source/destination, and travel durations are also provided to the user. 
