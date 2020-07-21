@@ -35,10 +35,8 @@ As a group with passion to travel all around the world and a lot of experiences 
 - Countries -cities API : https://countries-cities.p.rapidapi.com/location/country/GB/geojson
 - Rawgit : https://rawgit.com/tjvantoll/jquery-ui-in-action-demos/master/chapter-11/json/airports.json
 
-
-## Links
-Github URL: https://github.com/Wilsonruan/Flight-Search/  
-Website URL: https://wilsonruan.github.io/Flight-Search/
+ 
+## Website URL: https://sushmakaluva.github.io/flYjet-Flight-Search/
 
 ## License
 © [flYjet] Ltd 2020
